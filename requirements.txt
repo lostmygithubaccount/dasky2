@@ -1,1 +1,14 @@
 azureml-core
+dask
+asyncssh
+distributed
+bokeh
+pandas
+numpy 
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+optuna
+dask_lightgbm
+dask_optuna

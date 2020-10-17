@@ -1,1 +1,6 @@
-pythonenv*
+*.vscode
+*.azureml
+*.amlignore
+*.config
+*pythonenv*
+*dask-worker-space
