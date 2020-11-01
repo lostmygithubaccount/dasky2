@@ -9,6 +9,7 @@ dependencies:
     - azureml-mlflow
     - azureml-dataprep
     - dask
+    - dask_mpi
     - distributed
     - asyncssh
     - pyarrow
